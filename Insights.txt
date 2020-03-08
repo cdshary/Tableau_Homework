@@ -1,0 +1,8 @@
+I would like to mention that I utilized the link given in the homework instructions. I selected some of the quarterly data shown on the bottom of the page and noticed it was missing some of the data elements described.
+I went ahead and combined the data using pandas in python. 
+I uploaded the combined csv file into Tableau and made what visuals I could with the data.
+For the limited amount of data that I had, I found that ridership and the purchasing of passes was highest during the drier months. Naturally, this makes sense with the weather of New York and as it gets closer to summer, people generally are
+able to do more activities like bike riding outdoors.
+
+I was unable to render any geomap with the data elements I had. I went back and explored the csv data from the same link and noticed it was all void of coordinates.
+It wasn't until I looked at the zip files which were located in a link off of the original link. However, I still had trouble mapping that data into a geomap.
